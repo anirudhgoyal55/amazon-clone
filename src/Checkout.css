@@ -1,0 +1,21 @@
+.checkout {
+display: flex;
+padding: 20px;
+background-color: white;
+height: max-content;
+
+}
+
+
+.checkout-banner {
+    margin-bottom: 10px;
+    max-height: 200px;
+    width: 150px%;
+    
+}
+
+.checkout-title {
+    border-bottom: 1px solid lightgray;
+    padding: 10px;
+    margin-right: 10px;
+}
